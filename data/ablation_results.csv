@@ -1,0 +1,4 @@
+model,accuracy,f1_score
+Price only,53.9%,0.7009
+Sentiment only,53.9%,0.7009
+Price + Sentiment (Full),54.6%,0.6462
