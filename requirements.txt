@@ -1,0 +1,12 @@
+yfinance==0.2.40
+pandas
+pandas_ta
+transformers
+torch
+matplotlib
+scikit-learn
+feedparser
+requests
+shap
+streamlit
+numpy
